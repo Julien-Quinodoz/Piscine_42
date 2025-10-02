@@ -1,5 +1,4 @@
-# Piscine 42  
-
+# Piscine 42  <img src="https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/42_logo.svg" alt="42 Badge" width="200">
 > Période d'immersion intensive à l'école 42 — apprentissage des bases du langage C et de la logique algorithmique.
 
 ---
